@@ -13,6 +13,9 @@ With this API, you can do the following:
 - Delete projects
 - Undelete, or recover, projects that you don't want to delete
 
+Documentation
+--------------
+
 - `Client Library Documentation`_
 - `Product Documentation`_
 
